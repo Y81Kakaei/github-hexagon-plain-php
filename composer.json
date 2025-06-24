@@ -14,5 +14,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "symfony/http-foundation": "^7.3",
+        "symfony/dotenv": "^7.3",
+        "symfony/cache": "^7.3"
+    }
 }
